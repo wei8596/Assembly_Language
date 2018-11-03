@@ -1,2 +1,2 @@
-# Assembly_Language
-Assembly Language
+# Assembly Language
+- ARM(Advanced RISC Machine)
